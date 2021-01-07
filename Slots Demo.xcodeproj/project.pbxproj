@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8168DCED25A3E2A0003D98B9 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8168DCEC25A3E2A0003D98B9 /* CardView.swift */; };
 		81A7325525A2100100F8468A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81A7325425A2100100F8468A /* AppDelegate.swift */; };
 		81A7325725A2100100F8468A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81A7325625A2100100F8468A /* SceneDelegate.swift */; };
 		81A7325925A2100100F8468A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81A7325825A2100100F8468A /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8168DCEC25A3E2A0003D98B9 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		81A7325125A2100100F8468A /* Slots Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Slots Demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		81A7325425A2100100F8468A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		81A7325625A2100100F8468A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				81A7325425A2100100F8468A /* AppDelegate.swift */,
 				81A7325625A2100100F8468A /* SceneDelegate.swift */,
 				81A7325825A2100100F8468A /* ContentView.swift */,
+				8168DCEC25A3E2A0003D98B9 /* CardView.swift */,
 				81A7325A25A2100400F8468A /* Assets.xcassets */,
 				81A7325F25A2100400F8468A /* LaunchScreen.storyboard */,
 				81A7326225A2100400F8468A /* Info.plist */,
@@ -147,6 +150,7 @@
 			files = (
 				81A7325525A2100100F8468A /* AppDelegate.swift in Sources */,
 				81A7325725A2100100F8468A /* SceneDelegate.swift in Sources */,
+				8168DCED25A3E2A0003D98B9 /* CardView.swift in Sources */,
 				81A7325925A2100100F8468A /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
